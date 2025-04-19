@@ -1,0 +1,34 @@
+"StnPres",平均氣壓(hPa)
+"SeaPres",海平面氣壓(hPa)
+"StnPresMax",日最高氣壓(hPa)
+"StnPresMaxTime",最高氣壓時間
+"StnPresMin",日最低氣壓(hPa)
+"StnPresMinTime",最低氣壓時間
+"Tx",平均氣溫(℃)
+"TxMaxAbs",最高氣溫(℃)
+"TxMaxAbsTime",最高氣溫時間
+"TxMinAbs",最低氣溫(℃)
+"TxMinAbsTime",最低氣溫時間
+"Td",平均露點溫度(℃)
+"RH",平均相對溼度( %)
+"RHMin",最低相對溼度( %)
+"RHMinTime",最低相對溼度時間
+"WS",平均風速(m/s)
+"WD",平均風向(°)
+"WSGust",最大陣風風速(m/s)
+"WDGust",最大陣風風向(°)
+"WGustTime",最大陣風時間
+"Precp",累計雨量(mm)
+"PrecpMax10",最大10分鐘降水量(mm)
+"PrecpMax10Time",最大10分鐘降水量起始時間
+"PrecpHrMax",最大60分鐘降水量(mm)
+"PrecpHrMaxTime",最大60分鐘降水量起始時間
+"SunShine",累積日照時數(hr)
+"GloblRad",累積日射量(MJ/m2)
+"EvapA",累積蒸發量(mm)
+"TxSoil0cm",平均地溫0cm(℃)
+"TxSoil5cm",平均地溫5cm(℃)
+"TxSoil10cm",平均地溫10cm(℃)
+"TxSoil20cm",平均地溫20cm(℃)
+"TxSoil50cm",平均地溫50cm(℃)
+"TxSoil100cm",平均地溫100cm(℃)
