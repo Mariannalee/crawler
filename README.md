@@ -5,3 +5,5 @@ In order to get the data from the website of Taiwan Agricultural Monitoring Stat
 
 In the website, it can get different items from a place but can't get a item or many items from many place.Therefore I desite to create a crawler to solve this problem.
 
+
+<h2>How to used Thid code?</h2>
